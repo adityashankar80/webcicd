@@ -222,7 +222,7 @@
     </dependencies>
 
     <build>
-        <finalName>krishna</finalName>
+        <finalName>kumar</finalName>
         <plugins>
             <!-- Force Java 6 -->
             <plugin>
